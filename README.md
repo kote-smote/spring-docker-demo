@@ -56,3 +56,7 @@ Guide: https://spring.io/guides/gs/spring-boot-docker/
 Intro to Docker: https://gitlab.com/soa-labs/2018-1  
 Intro to Eureka: https://gitlab.com/soa-labs/2018-2  
 Intro to Zuul: https://gitlab.com/soa-labs/2018-3  
+
+### Traefik links (refactor!)
+How to Use Traefik as a Reverse Proxy: https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-ubuntu-16-04
+How To Install Docker Compose on Ubuntu 16.04: https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-16-04

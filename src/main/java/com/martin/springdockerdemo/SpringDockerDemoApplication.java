@@ -9,9 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SpringDockerDemoApplication {
 
+    private static long COUNTER = 0;
+
 	@RequestMapping("/")
 	public String home() {
-		return "Hello Docker World";
+		return "Hello Docker World" + COUNTER++;
 	}
 
 	public static void main(String[] args) {
